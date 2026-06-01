@@ -27,8 +27,41 @@
       ],
       "folderName": "2248-minimum-cost-of-buying-candies-with-discount",
       "lastUpdated": 1780299145728
+    },
+    "395-java": {
+      "questionId": "395",
+      "title": "Longest Substring With At Least K Repeating Characters",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 55,
+      "memory": 44076000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "divide-and-conquer",
+          "name": "Divide and Conquer"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        }
+      ],
+      "folderName": "0395-longest-substring-with-at-least-k-repeating-characters",
+      "lastUpdated": 1780300145107
     }
   },
-  "lastUpdated": 1780299145728,
+  "lastUpdated": 1780300145107,
   "version": "1.0.0"
 }
