@@ -1,0 +1,34 @@
+{
+  "submissions": {
+    "2248-java": {
+      "questionId": "2248",
+      "title": "Minimum Cost Of Buying Candies With Discount",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 5,
+      "memory": 44704000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "greedy",
+          "name": "Greedy"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "2248-minimum-cost-of-buying-candies-with-discount",
+      "lastUpdated": 1780299006916
+    }
+  },
+  "lastUpdated": 1780299006916,
+  "version": "1.0.0"
+}
