@@ -5,9 +5,9 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    1
+Total Solved    2
 Easy            1
-Medium          0
+Medium          1
 Hard            0
 ```
 
@@ -23,12 +23,17 @@ java            ████████████████████ 100
  1. Array                          1
  2. Greedy                         1
  3. Sorting                        1
+ 4. Hash Table                     1
+ 5. String                         1
+ 6. Divide and Conquer             1
+ 7. Sliding Window                 1
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Longest Substring With At Least K Repeating Characters](./0395-longest-substring-with-at-least-k-repeating-characters) | java | 2026-06-01 |
 | ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-06-01 |
 
 ## Repository Structure
