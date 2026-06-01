@@ -7,7 +7,7 @@
       "difficulty": "Easy",
       "language": "java",
       "runtime": 5,
-      "memory": 44704000,
+      "memory": 44632000,
       "topics": [
         {
           "tagId": "topic-0",
@@ -26,9 +26,9 @@
         }
       ],
       "folderName": "2248-minimum-cost-of-buying-candies-with-discount",
-      "lastUpdated": 1780299006916
+      "lastUpdated": 1780299145728
     }
   },
-  "lastUpdated": 1780299006916,
+  "lastUpdated": 1780299145728,
   "version": "1.0.0"
 }
