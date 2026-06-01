@@ -59,7 +59,7 @@ Hence, the minimum cost to buy all candies is 5 + 5 = 10.
 
 **Language:** java  
 **Runtime:** 5 ms (96.09%)  
-**Memory:** 42.6 MB (17.37%)  
+**Memory:** 42.6 MB (33.49%)  
 **Submitted:** 2026-06-01
 
 ## Solution
