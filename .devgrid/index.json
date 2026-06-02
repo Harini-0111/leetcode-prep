@@ -88,8 +88,36 @@
       ],
       "folderName": "0073-set-matrix-zeroes",
       "lastUpdated": 1780408616657
+    },
+    "75-java": {
+      "questionId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 88,
+      "memory": 43256000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "0075-sort-colors",
+      "lastUpdated": 1780411052272
     }
   },
-  "lastUpdated": 1780408616657,
+  "lastUpdated": 1780411052272,
   "version": "1.0.0"
 }
