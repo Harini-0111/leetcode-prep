@@ -60,8 +60,36 @@
       ],
       "folderName": "0395-longest-substring-with-at-least-k-repeating-characters",
       "lastUpdated": 1780300145107
+    },
+    "73-java": {
+      "questionId": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 1,
+      "memory": 47428000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "matrix",
+          "name": "Matrix"
+        }
+      ],
+      "folderName": "0073-set-matrix-zeroes",
+      "lastUpdated": 1780408616657
     }
   },
-  "lastUpdated": 1780300145107,
+  "lastUpdated": 1780408616657,
   "version": "1.0.0"
 }
