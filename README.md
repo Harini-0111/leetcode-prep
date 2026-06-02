@@ -5,9 +5,9 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    2
+Total Solved    3
 Easy            1
-Medium          1
+Medium          2
 Hard            0
 ```
 
@@ -20,19 +20,21 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          1
- 2. Greedy                         1
- 3. Sorting                        1
- 4. Hash Table                     1
+ 1. Array                          2
+ 2. Hash Table                     2
+ 3. Greedy                         1
+ 4. Sorting                        1
  5. String                         1
  6. Divide and Conquer             1
  7. Sliding Window                 1
+ 8. Matrix                         1
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | java | 2026-06-02 |
 | ● | [Longest Substring With At Least K Repeating Characters](./0395-longest-substring-with-at-least-k-repeating-characters) | java | 2026-06-01 |
 | ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-06-01 |
 
@@ -50,4 +52,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-06-01
+Last updated: 2026-06-02
