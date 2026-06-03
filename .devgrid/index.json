@@ -139,8 +139,36 @@
       ],
       "folderName": "0031-next-permutation",
       "lastUpdated": 1780508447421
+    },
+    "48-java": {
+      "questionId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 0,
+      "memory": 43936000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "matrix",
+          "name": "Matrix"
+        }
+      ],
+      "folderName": "0048-rotate-image",
+      "lastUpdated": 1780513701922
     }
   },
-  "lastUpdated": 1780508447421,
+  "lastUpdated": 1780513701922,
   "version": "1.0.0"
 }
