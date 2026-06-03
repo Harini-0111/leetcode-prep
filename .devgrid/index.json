@@ -116,8 +116,31 @@
       ],
       "folderName": "0075-sort-colors",
       "lastUpdated": 1780411052272
+    },
+    "31-java": {
+      "questionId": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 0,
+      "memory": 44316000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        }
+      ],
+      "folderName": "0031-next-permutation",
+      "lastUpdated": 1780508447421
     }
   },
-  "lastUpdated": 1780411052272,
+  "lastUpdated": 1780508447421,
   "version": "1.0.0"
 }
