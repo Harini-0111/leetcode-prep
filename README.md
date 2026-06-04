@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    7
-Easy            2
+Total Solved    8
+Easy            3
 Medium          5
 Hard            0
 ```
@@ -20,22 +20,23 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          6
- 2. Matrix                         3
+ 1. Array                          7
+ 2. Matrix                         4
  3. Sorting                        2
  4. Two Pointers                   2
  5. Hash Table                     2
- 6. Greedy                         1
- 7. String                         1
- 8. Divide and Conquer             1
- 9. Sliding Window                 1
-10. Math                           1
+ 6. Binary Search                  1
+ 7. Greedy                         1
+ 8. String                         1
+ 9. Divide and Conquer             1
+10. Sliding Window                 1
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-04 |
 | ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-04 |
 | ● | [Rotate Image](./0048-rotate-image) | java | 2026-06-03 |
 | ● | [Next Permutation](./0031-next-permutation) | java | 2026-06-03 |
