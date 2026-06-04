@@ -167,8 +167,31 @@
       ],
       "folderName": "0048-rotate-image",
       "lastUpdated": 1780513701922
+    },
+    "1791-java": {
+      "questionId": "1791",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 44744000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "matrix",
+          "name": "Matrix"
+        }
+      ],
+      "folderName": "1791-richest-customer-wealth",
+      "lastUpdated": 1780551395441
     }
   },
-  "lastUpdated": 1780513701922,
+  "lastUpdated": 1780551395441,
   "version": "1.0.0"
 }
