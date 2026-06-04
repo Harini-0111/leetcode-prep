@@ -190,8 +190,36 @@
       ],
       "folderName": "1791-richest-customer-wealth",
       "lastUpdated": 1780551395441
+    },
+    "1476-java": {
+      "questionId": "1476",
+      "title": "Count Negative Numbers In A Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 47112000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "binary-search",
+          "name": "Binary Search"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "matrix",
+          "name": "Matrix"
+        }
+      ],
+      "folderName": "1476-count-negative-numbers-in-a-sorted-matrix",
+      "lastUpdated": 1780551537331
     }
   },
-  "lastUpdated": 1780551395441,
+  "lastUpdated": 1780551537331,
   "version": "1.0.0"
 }
