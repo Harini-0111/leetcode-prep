@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    8
-Easy            3
+Total Solved    9
+Easy            4
 Medium          5
 Hard            0
 ```
@@ -25,17 +25,18 @@ java            ████████████████████ 100
  3. Sorting                        2
  4. Two Pointers                   2
  5. Hash Table                     2
- 6. Binary Search                  1
- 7. Greedy                         1
- 8. String                         1
- 9. Divide and Conquer             1
-10. Sliding Window                 1
+ 6. Math                           2
+ 7. Binary Search                  1
+ 8. Greedy                         1
+ 9. String                         1
+10. Divide and Conquer             1
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Self Dividing Numbers](./0728-self-dividing-numbers) | java | 2026-06-05 |
 | ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-04 |
 | ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-04 |
 | ● | [Rotate Image](./0048-rotate-image) | java | 2026-06-03 |
@@ -59,4 +60,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-06-04
+Last updated: 2026-06-05
