@@ -218,8 +218,26 @@
       ],
       "folderName": "1476-count-negative-numbers-in-a-sorted-matrix",
       "lastUpdated": 1780551537331
+    },
+    "728-java": {
+      "questionId": "728",
+      "title": "Self Dividing Numbers",
+      "slug": "self-dividing-numbers",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 2,
+      "memory": 42664000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        }
+      ],
+      "folderName": "0728-self-dividing-numbers",
+      "lastUpdated": 1780673079918
     }
   },
-  "lastUpdated": 1780551537331,
+  "lastUpdated": 1780673079918,
   "version": "1.0.0"
 }
