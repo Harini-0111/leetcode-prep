@@ -20,8 +20,8 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          8
- 2. Matrix                         5
+ 1. Array                          7
+ 2. Matrix                         4
  3. Sorting                        2
  4. Two Pointers                   2
  5. Hash Table                     2
