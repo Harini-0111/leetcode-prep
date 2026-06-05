@@ -236,8 +236,31 @@
       ],
       "folderName": "0728-self-dividing-numbers",
       "lastUpdated": 1780673079918
+    },
+    "1704-java": {
+      "questionId": "1704",
+      "title": "Special Positions In A Binary Matrix",
+      "slug": "special-positions-in-a-binary-matrix",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 2,
+      "memory": 47188000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "matrix",
+          "name": "Matrix"
+        }
+      ],
+      "folderName": "1704-special-positions-in-a-binary-matrix",
+      "lastUpdated": 1780673918067
     }
   },
-  "lastUpdated": 1780673079918,
+  "lastUpdated": 1780673918067,
   "version": "1.0.0"
 }
