@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    9
-Easy            4
+Total Solved    10
+Easy            5
 Medium          5
 Hard            0
 ```
@@ -20,8 +20,8 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          7
- 2. Matrix                         4
+ 1. Array                          8
+ 2. Matrix                         5
  3. Sorting                        2
  4. Two Pointers                   2
  5. Hash Table                     2
@@ -36,6 +36,7 @@ java            ████████████████████ 100
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-05 |
 | ● | [Self Dividing Numbers](./0728-self-dividing-numbers) | java | 2026-06-05 |
 | ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-04 |
 | ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-04 |
