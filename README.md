@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    12
-Easy            6
+Total Solved    13
+Easy            7
 Medium          5
 Hard            1
 ```
@@ -22,11 +22,11 @@ java            ████████████████████ 100
 ```
  1. Array                          9
  2. Matrix                         4
- 3. Hash Table                     3
- 4. Sorting                        2
- 5. Two Pointers                   2
- 6. String                         2
- 7. Math                           2
+ 3. Math                           3
+ 4. Hash Table                     3
+ 5. Sorting                        2
+ 6. Two Pointers                   2
+ 7. String                         2
  8. Binary Search                  1
  9. Greedy                         1
 10. Prefix Sum                     1
@@ -36,6 +36,7 @@ java            ████████████████████ 100
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Nim Game](./0292-nim-game) | java | 2026-06-06 |
 | ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-06 |
 | ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-06 |
 | ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-05 |
@@ -45,7 +46,6 @@ java            ████████████████████ 100
 | ● | [Rotate Image](./0048-rotate-image) | java | 2026-06-03 |
 | ● | [Next Permutation](./0031-next-permutation) | java | 2026-06-03 |
 | ● | [Sort Colors](./0075-sort-colors) | java | 2026-06-02 |
-| ● | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | java | 2026-06-02 |
 
 ## Repository Structure
 
