@@ -259,8 +259,31 @@
       ],
       "folderName": "1704-special-positions-in-a-binary-matrix",
       "lastUpdated": 1780673918067
+    },
+    "2714-java": {
+      "questionId": "2714",
+      "title": "Left And Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 2,
+      "memory": 46604000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        }
+      ],
+      "folderName": "2714-left-and-right-sum-differences",
+      "lastUpdated": 1780763751690
     }
   },
-  "lastUpdated": 1780673918067,
+  "lastUpdated": 1780763751690,
   "version": "1.0.0"
 }
