@@ -320,8 +320,36 @@
       ],
       "folderName": "0336-palindrome-pairs",
       "lastUpdated": 1780763970387
+    },
+    "292-java": {
+      "questionId": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 42236000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "brainteaser",
+          "name": "Brainteaser"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "game-theory",
+          "name": "Game Theory"
+        }
+      ],
+      "folderName": "0292-nim-game",
+      "lastUpdated": 1780764251163
     }
   },
-  "lastUpdated": 1780763970387,
+  "lastUpdated": 1780764251163,
   "version": "1.0.0"
 }
