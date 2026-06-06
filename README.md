@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    10
-Easy            5
+Total Solved    11
+Easy            6
 Medium          5
 Hard            0
 ```
@@ -20,7 +20,7 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          7
+ 1. Array                          8
  2. Matrix                         4
  3. Sorting                        2
  4. Two Pointers                   2
@@ -28,14 +28,15 @@ java            ████████████████████ 100
  6. Math                           2
  7. Binary Search                  1
  8. Greedy                         1
- 9. String                         1
-10. Divide and Conquer             1
+ 9. Prefix Sum                     1
+10. String                         1
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-06 |
 | ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-05 |
 | ● | [Self Dividing Numbers](./0728-self-dividing-numbers) | java | 2026-06-05 |
 | ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-04 |
@@ -45,7 +46,6 @@ java            ████████████████████ 100
 | ● | [Sort Colors](./0075-sort-colors) | java | 2026-06-02 |
 | ● | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | java | 2026-06-02 |
 | ● | [Longest Substring With At Least K Repeating Characters](./0395-longest-substring-with-at-least-k-repeating-characters) | java | 2026-06-01 |
-| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-06-01 |
 
 ## Repository Structure
 
@@ -61,4 +61,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-06-05
+Last updated: 2026-06-06
