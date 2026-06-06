@@ -5,10 +5,10 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    11
+Total Solved    12
 Easy            6
 Medium          5
-Hard            0
+Hard            1
 ```
 
 ## Languages
@@ -20,22 +20,23 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          8
+ 1. Array                          9
  2. Matrix                         4
- 3. Sorting                        2
- 4. Two Pointers                   2
- 5. Hash Table                     2
- 6. Math                           2
- 7. Binary Search                  1
- 8. Greedy                         1
- 9. Prefix Sum                     1
-10. String                         1
+ 3. Hash Table                     3
+ 4. Sorting                        2
+ 5. Two Pointers                   2
+ 6. String                         2
+ 7. Math                           2
+ 8. Binary Search                  1
+ 9. Greedy                         1
+10. Prefix Sum                     1
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-06 |
 | ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-06 |
 | ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-05 |
 | ● | [Self Dividing Numbers](./0728-self-dividing-numbers) | java | 2026-06-05 |
@@ -45,7 +46,6 @@ java            ████████████████████ 100
 | ● | [Next Permutation](./0031-next-permutation) | java | 2026-06-03 |
 | ● | [Sort Colors](./0075-sort-colors) | java | 2026-06-02 |
 | ● | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | java | 2026-06-02 |
-| ● | [Longest Substring With At Least K Repeating Characters](./0395-longest-substring-with-at-least-k-repeating-characters) | java | 2026-06-01 |
 
 ## Repository Structure
 
