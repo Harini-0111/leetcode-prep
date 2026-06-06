@@ -282,8 +282,46 @@
       ],
       "folderName": "2714-left-and-right-sum-differences",
       "lastUpdated": 1780763751690
+    },
+    "336-java": {
+      "questionId": "336",
+      "title": "Palindrome Pairs",
+      "slug": "palindrome-pairs",
+      "difficulty": "Hard",
+      "language": "java",
+      "runtime": 822,
+      "memory": 61264000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "trie",
+          "name": "Trie"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "hash-function",
+          "name": "Hash Function"
+        }
+      ],
+      "folderName": "0336-palindrome-pairs",
+      "lastUpdated": 1780763970387
     }
   },
-  "lastUpdated": 1780763751690,
+  "lastUpdated": 1780763970387,
   "version": "1.0.0"
 }
