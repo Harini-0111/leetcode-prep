@@ -371,8 +371,36 @@
       ],
       "folderName": "0724-find-pivot-index",
       "lastUpdated": 1780839484096
+    },
+    "5-java": {
+      "questionId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 13,
+      "memory": 43372000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        }
+      ],
+      "folderName": "0005-longest-palindromic-substring",
+      "lastUpdated": 1780840227526
     }
   },
-  "lastUpdated": 1780839484096,
+  "lastUpdated": 1780840227526,
   "version": "1.0.0"
 }
