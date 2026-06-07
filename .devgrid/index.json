@@ -348,8 +348,31 @@
       ],
       "folderName": "0292-nim-game",
       "lastUpdated": 1780764251163
+    },
+    "724-java": {
+      "questionId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 1,
+      "memory": 47336000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        }
+      ],
+      "folderName": "0724-find-pivot-index",
+      "lastUpdated": 1780839484096
     }
   },
-  "lastUpdated": 1780764251163,
+  "lastUpdated": 1780839484096,
   "version": "1.0.0"
 }
