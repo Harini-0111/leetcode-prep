@@ -5,9 +5,9 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    14
+Total Solved    15
 Easy            8
-Medium          5
+Medium          6
 Hard            1
 ```
 
@@ -23,11 +23,11 @@ java            ████████████████████ 100
  1. Array                          10
  2. Matrix                         4
  3. Math                           3
- 4. Hash Table                     3
- 5. Sorting                        2
- 6. Prefix Sum                     2
- 7. Two Pointers                   2
- 8. String                         2
+ 4. Two Pointers                   3
+ 5. Hash Table                     3
+ 6. String                         3
+ 7. Sorting                        2
+ 8. Prefix Sum                     2
  9. Binary Search                  1
 10. Greedy                         1
 ```
@@ -36,6 +36,7 @@ java            ████████████████████ 100
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | java | 2026-06-07 |
 | ● | [Find Pivot Index](./0724-find-pivot-index) | java | 2026-06-07 |
 | ● | [Nim Game](./0292-nim-game) | java | 2026-06-06 |
 | ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-06 |
@@ -45,7 +46,6 @@ java            ████████████████████ 100
 | ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-04 |
 | ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-04 |
 | ● | [Rotate Image](./0048-rotate-image) | java | 2026-06-03 |
-| ● | [Next Permutation](./0031-next-permutation) | java | 2026-06-03 |
 
 ## Repository Structure
 
