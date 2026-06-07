@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    13
-Easy            7
+Total Solved    14
+Easy            8
 Medium          5
 Hard            1
 ```
@@ -20,22 +20,23 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          9
+ 1. Array                          10
  2. Matrix                         4
  3. Math                           3
  4. Hash Table                     3
  5. Sorting                        2
- 6. Two Pointers                   2
- 7. String                         2
- 8. Binary Search                  1
- 9. Greedy                         1
-10. Prefix Sum                     1
+ 6. Prefix Sum                     2
+ 7. Two Pointers                   2
+ 8. String                         2
+ 9. Binary Search                  1
+10. Greedy                         1
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Find Pivot Index](./0724-find-pivot-index) | java | 2026-06-07 |
 | ● | [Nim Game](./0292-nim-game) | java | 2026-06-06 |
 | ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-06 |
 | ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-06 |
@@ -45,7 +46,6 @@ java            ████████████████████ 100
 | ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-04 |
 | ● | [Rotate Image](./0048-rotate-image) | java | 2026-06-03 |
 | ● | [Next Permutation](./0031-next-permutation) | java | 2026-06-03 |
-| ● | [Sort Colors](./0075-sort-colors) | java | 2026-06-02 |
 
 ## Repository Structure
 
@@ -61,4 +61,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-06-06
+Last updated: 2026-06-07
