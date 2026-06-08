@@ -422,8 +422,26 @@
       ],
       "folderName": "0712-minimum-ascii-delete-sum-for-two-strings",
       "lastUpdated": 1780938290583
+    },
+    "1975-java": {
+      "questionId": "1975",
+      "title": "Minimum Distance To The Target Element",
+      "slug": "minimum-distance-to-the-target-element",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 44960000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        }
+      ],
+      "folderName": "1975-minimum-distance-to-the-target-element",
+      "lastUpdated": 1780938474694
     }
   },
-  "lastUpdated": 1780938290583,
+  "lastUpdated": 1780938474694,
   "version": "1.0.0"
 }
