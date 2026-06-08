@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    16
-Easy            8
+Total Solved    17
+Easy            9
 Medium          7
 Hard            1
 ```
@@ -20,7 +20,7 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          10
+ 1. Array                          11
  2. Matrix                         4
  3. String                         4
  4. Math                           3
@@ -36,6 +36,7 @@ java            ████████████████████ 100
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-06-08 |
 | ● | [Minimum Ascii Delete Sum For Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings) | java | 2026-06-08 |
 | ● | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | java | 2026-06-07 |
 | ● | [Find Pivot Index](./0724-find-pivot-index) | java | 2026-06-07 |
@@ -45,7 +46,6 @@ java            ████████████████████ 100
 | ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-05 |
 | ● | [Self Dividing Numbers](./0728-self-dividing-numbers) | java | 2026-06-05 |
 | ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-04 |
-| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-04 |
 
 ## Repository Structure
 
