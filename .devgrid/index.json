@@ -399,8 +399,31 @@
       ],
       "folderName": "0005-longest-palindromic-substring",
       "lastUpdated": 1780840227526
+    },
+    "712-java": {
+      "questionId": "712",
+      "title": "Minimum Ascii Delete Sum For Two Strings",
+      "slug": "minimum-ascii-delete-sum-for-two-strings",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 17,
+      "memory": 46172000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        }
+      ],
+      "folderName": "0712-minimum-ascii-delete-sum-for-two-strings",
+      "lastUpdated": 1780938290583
     }
   },
-  "lastUpdated": 1780840227526,
+  "lastUpdated": 1780938290583,
   "version": "1.0.0"
 }
