@@ -468,8 +468,46 @@
       ],
       "folderName": "0036-valid-sudoku",
       "lastUpdated": 1781026982497
+    },
+    "532-java": {
+      "questionId": "532",
+      "title": "K Diff Pairs In An Array",
+      "slug": "k-diff-pairs-in-an-array",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 12,
+      "memory": 47608000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "binary-search",
+          "name": "Binary Search"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "0532-k-diff-pairs-in-an-array",
+      "lastUpdated": 1781027113278
     }
   },
-  "lastUpdated": 1781026982497,
+  "lastUpdated": 1781027113278,
   "version": "1.0.0"
 }
