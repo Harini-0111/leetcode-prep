@@ -5,9 +5,9 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    18
+Total Solved    19
 Easy            9
-Medium          8
+Medium          9
 Hard            1
 ```
 
@@ -20,22 +20,23 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          12
+ 1. Array                          13
  2. Matrix                         5
- 3. Hash Table                     4
- 4. String                         4
- 5. Math                           3
- 6. Two Pointers                   3
- 7. Sorting                        2
- 8. Prefix Sum                     2
- 9. Dynamic Programming            2
-10. Binary Search                  1
+ 3. Hash Table                     5
+ 4. Two Pointers                   4
+ 5. String                         4
+ 6. Sorting                        3
+ 7. Math                           3
+ 8. Binary Search                  2
+ 9. Prefix Sum                     2
+10. Dynamic Programming            2
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [K Diff Pairs In An Array](./0532-k-diff-pairs-in-an-array) | java | 2026-06-09 |
 | ● | [Valid Sudoku](./0036-valid-sudoku) | java | 2026-06-09 |
 | ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-06-08 |
 | ● | [Minimum Ascii Delete Sum For Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings) | java | 2026-06-08 |
@@ -45,7 +46,6 @@ java            ████████████████████ 100
 | ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-06 |
 | ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-06 |
 | ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-05 |
-| ● | [Self Dividing Numbers](./0728-self-dividing-numbers) | java | 2026-06-05 |
 
 ## Repository Structure
 
