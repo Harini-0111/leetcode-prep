@@ -440,8 +440,36 @@
       ],
       "folderName": "1975-minimum-distance-to-the-target-element",
       "lastUpdated": 1780938474694
+    },
+    "36-java": {
+      "questionId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 1,
+      "memory": 46680000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "matrix",
+          "name": "Matrix"
+        }
+      ],
+      "folderName": "0036-valid-sudoku",
+      "lastUpdated": 1781026982497
     }
   },
-  "lastUpdated": 1780938474694,
+  "lastUpdated": 1781026982497,
   "version": "1.0.0"
 }
