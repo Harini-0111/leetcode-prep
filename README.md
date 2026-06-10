@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    19
-Easy            9
+Total Solved    20
+Easy            10
 Medium          9
 Hard            1
 ```
@@ -22,9 +22,9 @@ java            ████████████████████ 100
 ```
  1. Array                          13
  2. Matrix                         5
- 3. Hash Table                     5
- 4. Two Pointers                   4
- 5. String                         4
+ 3. String                         5
+ 4. Hash Table                     5
+ 5. Two Pointers                   4
  6. Sorting                        3
  7. Math                           3
  8. Binary Search                  2
@@ -36,6 +36,7 @@ java            ████████████████████ 100
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
+| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-06-10 |
 | ● | [K Diff Pairs In An Array](./0532-k-diff-pairs-in-an-array) | java | 2026-06-09 |
 | ● | [Valid Sudoku](./0036-valid-sudoku) | java | 2026-06-09 |
 | ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-06-08 |
@@ -45,7 +46,6 @@ java            ████████████████████ 100
 | ● | [Nim Game](./0292-nim-game) | java | 2026-06-06 |
 | ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-06 |
 | ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-06 |
-| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-05 |
 
 ## Repository Structure
 
@@ -61,4 +61,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-06-09
+Last updated: 2026-06-10
