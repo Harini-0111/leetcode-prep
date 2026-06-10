@@ -506,8 +506,31 @@
       ],
       "folderName": "0532-k-diff-pairs-in-an-array",
       "lastUpdated": 1781027113278
+    },
+    "20-java": {
+      "questionId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 3,
+      "memory": 43012000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "stack",
+          "name": "Stack"
+        }
+      ],
+      "folderName": "0020-valid-parentheses",
+      "lastUpdated": 1781106878916
     }
   },
-  "lastUpdated": 1781027113278,
+  "lastUpdated": 1781106878916,
   "version": "1.0.0"
 }
