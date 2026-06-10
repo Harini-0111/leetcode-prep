@@ -529,8 +529,36 @@
       ],
       "folderName": "0020-valid-parentheses",
       "lastUpdated": 1781106878916
+    },
+    "383-java": {
+      "questionId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 1,
+      "memory": 46220000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "counting",
+          "name": "Counting"
+        }
+      ],
+      "folderName": "0383-ransom-note",
+      "lastUpdated": 1781107056138
     }
   },
-  "lastUpdated": 1781106878916,
+  "lastUpdated": 1781107056138,
   "version": "1.0.0"
 }
