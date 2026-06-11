@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    20
-Easy            10
+Total Solved    22
+Easy            12
 Medium          9
 Hard            1
 ```
@@ -20,11 +20,11 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          13
- 2. Matrix                         5
- 3. String                         5
- 4. Hash Table                     5
- 5. Two Pointers                   4
+ 1. Array                          14
+ 2. String                         7
+ 3. Matrix                         6
+ 4. Hash Table                     6
+ 5. Two Pointers                   5
  6. Sorting                        3
  7. Math                           3
  8. Binary Search                  2
@@ -36,16 +36,16 @@ java            ████████████████████ 100
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
-| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-06-10 |
-| ● | [K Diff Pairs In An Array](./0532-k-diff-pairs-in-an-array) | java | 2026-06-09 |
-| ● | [Valid Sudoku](./0036-valid-sudoku) | java | 2026-06-09 |
-| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-06-08 |
-| ● | [Minimum Ascii Delete Sum For Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings) | java | 2026-06-08 |
-| ● | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | java | 2026-06-07 |
-| ● | [Find Pivot Index](./0724-find-pivot-index) | java | 2026-06-07 |
-| ● | [Nim Game](./0292-nim-game) | java | 2026-06-06 |
-| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-06 |
-| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-06 |
+| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-11 |
+| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-11 |
+| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-11 |
+| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-06-11 |
+| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-06-11 |
+| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-06-11 |
+| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-11 |
+| ● | [Nim Game](./0292-nim-game) | java | 2026-06-11 |
+| ● | [Next Permutation](./0031-next-permutation) | java | 2026-06-11 |
+| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-11 |
 
 ## Repository Structure
 
@@ -61,4 +61,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-06-10
+Last updated: 2026-06-11
