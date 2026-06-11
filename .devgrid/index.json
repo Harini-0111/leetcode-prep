@@ -557,8 +557,31 @@
       ],
       "folderName": "0383-ransom-note",
       "lastUpdated": 1781107056138
+    },
+    "696-java": {
+      "questionId": "696",
+      "title": "Count Binary Substrings",
+      "slug": "count-binary-substrings",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 11,
+      "memory": 46256000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        }
+      ],
+      "folderName": "0696-count-binary-substrings",
+      "lastUpdated": 1781198658758
     }
   },
-  "lastUpdated": 1781107056138,
+  "lastUpdated": 1781198658758,
   "version": "1.0.0"
 }
