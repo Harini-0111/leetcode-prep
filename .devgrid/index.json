@@ -580,8 +580,36 @@
       ],
       "folderName": "0696-count-binary-substrings",
       "lastUpdated": 1781198658758
+    },
+    "4216-java": {
+      "questionId": "4216",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 2,
+      "memory": 46616000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "4216-weighted-word-mapping",
+      "lastUpdated": 1781368605978
     }
   },
-  "lastUpdated": 1781198658758,
+  "lastUpdated": 1781368605978,
   "version": "1.0.0"
 }
