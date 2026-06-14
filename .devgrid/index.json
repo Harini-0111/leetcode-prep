@@ -608,8 +608,36 @@
       ],
       "folderName": "4216-weighted-word-mapping",
       "lastUpdated": 1781368605978
+    },
+    "2236-java": {
+      "questionId": "2236",
+      "title": "Maximum Twin Sum Of A Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 4,
+      "memory": 102052000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "linked-list",
+          "name": "Linked List"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "stack",
+          "name": "Stack"
+        }
+      ],
+      "folderName": "2236-maximum-twin-sum-of-a-linked-list",
+      "lastUpdated": 1781453953722
     }
   },
-  "lastUpdated": 1781368605978,
+  "lastUpdated": 1781453953722,
   "version": "1.0.0"
 }
