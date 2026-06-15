@@ -636,8 +636,31 @@
       ],
       "folderName": "2236-maximum-twin-sum-of-a-linked-list",
       "lastUpdated": 1781453953722
+    },
+    "2216-java": {
+      "questionId": "2216",
+      "title": "Delete The Middle Node Of A Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 4,
+      "memory": 202756000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "linked-list",
+          "name": "Linked List"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        }
+      ],
+      "folderName": "2216-delete-the-middle-node-of-a-linked-list",
+      "lastUpdated": 1781527771375
     }
   },
-  "lastUpdated": 1781453953722,
+  "lastUpdated": 1781527771375,
   "version": "1.0.0"
 }
