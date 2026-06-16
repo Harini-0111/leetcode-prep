@@ -659,8 +659,31 @@
       ],
       "folderName": "2216-delete-the-middle-node-of-a-linked-list",
       "lastUpdated": 1781527771375
+    },
+    "3931-java": {
+      "questionId": "3931",
+      "title": "Process String With Special Operations I",
+      "slug": "process-string-with-special-operations-i",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 4,
+      "memory": 55144000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "3931-process-string-with-special-operations-i",
+      "lastUpdated": 1781623890514
     }
   },
-  "lastUpdated": 1781527771375,
+  "lastUpdated": 1781623890514,
   "version": "1.0.0"
 }
