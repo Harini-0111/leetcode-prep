@@ -705,8 +705,36 @@
       ],
       "folderName": "3939-process-string-with-special-operations-ii",
       "lastUpdated": 1781715462681
+    },
+    "1538-java": {
+      "questionId": "1538",
+      "title": "Maximum Points You Can Obtain From Cards",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 2,
+      "memory": 61268000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        }
+      ],
+      "folderName": "1538-maximum-points-you-can-obtain-from-cards",
+      "lastUpdated": 1781716079801
     }
   },
-  "lastUpdated": 1781715462681,
+  "lastUpdated": 1781716079801,
   "version": "1.0.0"
 }
