@@ -682,8 +682,31 @@
       ],
       "folderName": "3931-process-string-with-special-operations-i",
       "lastUpdated": 1781623890514
+    },
+    "3939-java": {
+      "questionId": "3939",
+      "title": "Process String With Special Operations Ii",
+      "slug": "process-string-with-special-operations-ii",
+      "difficulty": "Hard",
+      "language": "java",
+      "runtime": 31,
+      "memory": 47988000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "3939-process-string-with-special-operations-ii",
+      "lastUpdated": 1781715462681
     }
   },
-  "lastUpdated": 1781623890514,
+  "lastUpdated": 1781715462681,
   "version": "1.0.0"
 }
