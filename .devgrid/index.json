@@ -751,8 +751,41 @@
       ],
       "folderName": "1446-angle-between-hands-of-a-clock",
       "lastUpdated": 1781798021135
+    },
+    "2394-java": {
+      "questionId": "2394",
+      "title": "Count Subarrays With Score Less Than K",
+      "slug": "count-subarrays-with-score-less-than-k",
+      "difficulty": "Hard",
+      "language": "java",
+      "runtime": 3,
+      "memory": 88048000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "binary-search",
+          "name": "Binary Search"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        }
+      ],
+      "folderName": "2394-count-subarrays-with-score-less-than-k",
+      "lastUpdated": 1781798519136
     }
   },
-  "lastUpdated": 1781798021135,
+  "lastUpdated": 1781798519136,
   "version": "1.0.0"
 }
