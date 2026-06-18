@@ -733,8 +733,26 @@
       ],
       "folderName": "1538-maximum-points-you-can-obtain-from-cards",
       "lastUpdated": 1781716079801
+    },
+    "1446-java": {
+      "questionId": "1446",
+      "title": "Angle Between Hands Of A Clock",
+      "slug": "angle-between-hands-of-a-clock",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 0,
+      "memory": 45260000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        }
+      ],
+      "folderName": "1446-angle-between-hands-of-a-clock",
+      "lastUpdated": 1781798021135
     }
   },
-  "lastUpdated": 1781716079801,
+  "lastUpdated": 1781798021135,
   "version": "1.0.0"
 }
