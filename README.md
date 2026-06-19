@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    30
-Easy            13
+Total Solved    31
+Easy            14
 Medium          14
 Hard            3
 ```
@@ -20,13 +20,13 @@ java            ████████████████████ 100
 ## Top Topics
 
 ```
- 1. Array                          17
+ 1. Array                          18
  2. String                         10
  3. Two Pointers                   7
  4. Matrix                         6
  5. Hash Table                     6
- 6. Math                           4
- 7. Prefix Sum                     4
+ 6. Prefix Sum                     5
+ 7. Math                           4
  8. Binary Search                  3
  9. Sliding Window                 3
 10. Sorting                        3
@@ -36,16 +36,16 @@ java            ████████████████████ 100
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
-| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-18 |
-| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-18 |
-| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-18 |
-| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-06-18 |
-| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-06-18 |
-| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-06-18 |
-| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-18 |
-| ● | [Nim Game](./0292-nim-game) | java | 2026-06-18 |
-| ● | [Next Permutation](./0031-next-permutation) | java | 2026-06-18 |
-| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-18 |
+| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-06-19 |
+| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-06-19 |
+| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-06-19 |
+| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-06-19 |
+| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-06-19 |
+| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-06-19 |
+| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-06-19 |
+| ● | [Nim Game](./0292-nim-game) | java | 2026-06-19 |
+| ● | [Next Permutation](./0031-next-permutation) | java | 2026-06-19 |
+| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-06-19 |
 
 ## Repository Structure
 
@@ -61,4 +61,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-06-18
+Last updated: 2026-06-19
