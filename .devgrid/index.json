@@ -784,8 +784,31 @@
       ],
       "folderName": "2394-count-subarrays-with-score-less-than-k",
       "lastUpdated": 1781798519136
+    },
+    "1833-java": {
+      "questionId": "1833",
+      "title": "Find The Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 42964000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        }
+      ],
+      "folderName": "1833-find-the-highest-altitude",
+      "lastUpdated": 1781889848360
     }
   },
-  "lastUpdated": 1781798519136,
+  "lastUpdated": 1781889848360,
   "version": "1.0.0"
 }
