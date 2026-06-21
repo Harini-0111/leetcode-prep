@@ -807,8 +807,41 @@
       ],
       "folderName": "1833-find-the-highest-altitude",
       "lastUpdated": 1781889848360
+    },
+    "1961-java": {
+      "questionId": "1961",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 9,
+      "memory": 82184000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "greedy",
+          "name": "Greedy"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sorting",
+          "name": "Sorting"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "counting-sort",
+          "name": "Counting Sort"
+        }
+      ],
+      "folderName": "1961-maximum-ice-cream-bars",
+      "lastUpdated": 1782056173078
     }
   },
-  "lastUpdated": 1781889848360,
+  "lastUpdated": 1782056173078,
   "version": "1.0.0"
 }
