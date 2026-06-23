@@ -840,8 +840,31 @@
       ],
       "folderName": "1961-maximum-ice-cream-bars",
       "lastUpdated": 1782056173078
+    },
+    "3962-java": {
+      "questionId": "3962",
+      "title": "Number Of Zigzag Arrays I",
+      "slug": "number-of-zigzag-arrays-i",
+      "difficulty": "Hard",
+      "language": "java",
+      "runtime": 198,
+      "memory": 43776000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        }
+      ],
+      "folderName": "3962-number-of-zigzag-arrays-i",
+      "lastUpdated": 1782209667186
     }
   },
-  "lastUpdated": 1782056173078,
+  "lastUpdated": 1782209667186,
   "version": "1.0.0"
 }
