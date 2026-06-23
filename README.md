@@ -5,9 +5,9 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    33
+Total Solved    34
 Easy            14
-Medium          15
+Medium          16
 Hard            4
 ```
 
@@ -21,7 +21,7 @@ java            ████████████████████ 100
 
 ```
  1. Array                          19
- 2. String                         10
+ 2. String                         11
  3. Two Pointers                   7
  4. Matrix                         6
  5. Prefix Sum                     6
