@@ -863,8 +863,26 @@
       ],
       "folderName": "3962-number-of-zigzag-arrays-i",
       "lastUpdated": 1782209667186
+    },
+    "38-java": {
+      "questionId": "38",
+      "title": "Count And Say",
+      "slug": "count-and-say",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 8,
+      "memory": 43104000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        }
+      ],
+      "folderName": "0038-count-and-say",
+      "lastUpdated": 1782228335236
     }
   },
-  "lastUpdated": 1782209667186,
+  "lastUpdated": 1782228335236,
   "version": "1.0.0"
 }
