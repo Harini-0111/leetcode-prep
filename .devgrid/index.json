@@ -881,8 +881,36 @@
       ],
       "folderName": "0038-count-and-say",
       "lastUpdated": 1782228335236
+    },
+    "2-java": {
+      "questionId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 1,
+      "memory": 46352000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "linked-list",
+          "name": "Linked List"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "recursion",
+          "name": "Recursion"
+        }
+      ],
+      "folderName": "0002-add-two-numbers",
+      "lastUpdated": 1782321746432
     }
   },
-  "lastUpdated": 1782228335236,
+  "lastUpdated": 1782321746432,
   "version": "1.0.0"
 }
