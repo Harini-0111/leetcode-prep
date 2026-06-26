@@ -909,8 +909,31 @@
       ],
       "folderName": "0002-add-two-numbers",
       "lastUpdated": 1782321746432
+    },
+    "4041-java": {
+      "questionId": "4041",
+      "title": "Climbing Stairs Ii",
+      "slug": "climbing-stairs-ii",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 7,
+      "memory": 117384000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        }
+      ],
+      "folderName": "4041-climbing-stairs-ii",
+      "lastUpdated": 1782489399517
     }
   },
-  "lastUpdated": 1782321746432,
+  "lastUpdated": 1782489399518,
   "version": "1.0.0"
 }
