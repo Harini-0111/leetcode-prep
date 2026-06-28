@@ -932,8 +932,36 @@
       ],
       "folderName": "4041-climbing-stairs-ii",
       "lastUpdated": 1782489399517
+    },
+    "1956-java": {
+      "questionId": "1956",
+      "title": "Maximum Element After Decreasing And Rearranging",
+      "slug": "maximum-element-after-decreasing-and-rearranging",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 9,
+      "memory": 77484000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "greedy",
+          "name": "Greedy"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "1956-maximum-element-after-decreasing-and-rearranging",
+      "lastUpdated": 1782658328592
     }
   },
-  "lastUpdated": 1782489399518,
+  "lastUpdated": 1782658328592,
   "version": "1.0.0"
 }
