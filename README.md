@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    38
-Easy            14
+Total Solved    39
+Easy            15
 Medium          20
 Hard            4
 ```
@@ -29,7 +29,7 @@ java            ████████████████████ 100
  7. Math                           5
  8. Sorting                        5
  9. Sliding Window                 4
-10. Dynamic Programming            4
+10. Linked List                    4
 ```
 
 ## Recent Activity
