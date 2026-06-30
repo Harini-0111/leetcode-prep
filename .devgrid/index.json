@@ -960,8 +960,36 @@
       ],
       "folderName": "1956-maximum-element-after-decreasing-and-rearranging",
       "lastUpdated": 1782658328592
+    },
+    "1460-java": {
+      "questionId": "1460",
+      "title": "Number Of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 11,
+      "memory": 45864000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        }
+      ],
+      "folderName": "1460-number-of-substrings-containing-all-three-characters",
+      "lastUpdated": 1782830003155
     }
   },
-  "lastUpdated": 1782658328592,
+  "lastUpdated": 1782830003155,
   "version": "1.0.0"
 }
