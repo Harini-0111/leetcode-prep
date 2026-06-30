@@ -1011,8 +1011,31 @@
       ],
       "folderName": "0021-merge-two-sorted-lists",
       "lastUpdated": 1782851940374
+    },
+    "50-python3": {
+      "questionId": "50",
+      "title": "Powx N",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "language": "python3",
+      "runtime": 3,
+      "memory": 19408000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "recursion",
+          "name": "Recursion"
+        }
+      ],
+      "folderName": "0050-powx-n",
+      "lastUpdated": 1782852362042
     }
   },
-  "lastUpdated": 1782851940374,
+  "lastUpdated": 1782852362042,
   "version": "1.0.0"
 }
