@@ -988,8 +988,31 @@
       ],
       "folderName": "1460-number-of-substrings-containing-all-three-characters",
       "lastUpdated": 1782830003155
+    },
+    "21-java": {
+      "questionId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 44520000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "linked-list",
+          "name": "Linked List"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "recursion",
+          "name": "Recursion"
+        }
+      ],
+      "folderName": "0021-merge-two-sorted-lists",
+      "lastUpdated": 1782851940374
     }
   },
-  "lastUpdated": 1782830003155,
+  "lastUpdated": 1782851940374,
   "version": "1.0.0"
 }
