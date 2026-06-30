@@ -5,16 +5,17 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    39
+Total Solved    40
 Easy            15
-Medium          20
+Medium          21
 Hard            4
 ```
 
 ## Languages
 
 ```
-java            ████████████████████ 100.0%
+java            ████████████████████ 97.5%
+python3         █░░░░░░░░░░░░░░░░░░░ 2.5%
 ```
 
 ## Top Topics
@@ -24,9 +25,9 @@ java            ████████████████████ 100
  2. String                         12
  3. Hash Table                     7
  4. Two Pointers                   7
- 5. Matrix                         6
- 6. Prefix Sum                     6
- 7. Math                           5
+ 5. Math                           6
+ 6. Matrix                         6
+ 7. Prefix Sum                     6
  8. Sorting                        5
  9. Sliding Window                 4
 10. Linked List                    4
