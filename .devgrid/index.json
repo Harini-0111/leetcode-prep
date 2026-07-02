@@ -1034,8 +1034,31 @@
       ],
       "folderName": "0050-powx-n",
       "lastUpdated": 1782852362042
+    },
+    "278-python3": {
+      "questionId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "difficulty": "Easy",
+      "language": "python3",
+      "runtime": 53,
+      "memory": 18960000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "binary-search",
+          "name": "Binary Search"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "interactive",
+          "name": "Interactive"
+        }
+      ],
+      "folderName": "0278-first-bad-version",
+      "lastUpdated": 1783010826596
     }
   },
-  "lastUpdated": 1782852362042,
+  "lastUpdated": 1783010826596,
   "version": "1.0.0"
 }
