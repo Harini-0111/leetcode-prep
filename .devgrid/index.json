@@ -1057,8 +1057,26 @@
       ],
       "folderName": "0278-first-bad-version",
       "lastUpdated": 1783010826596
+    },
+    "176-mysql": {
+      "questionId": "176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "difficulty": "Medium",
+      "language": "mysql",
+      "runtime": 311,
+      "memory": 0,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "database",
+          "name": "Database"
+        }
+      ],
+      "folderName": "0176-second-highest-salary",
+      "lastUpdated": 1783011229296
     }
   },
-  "lastUpdated": 1783010826596,
+  "lastUpdated": 1783011229296,
   "version": "1.0.0"
 }
