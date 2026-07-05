@@ -1185,8 +1185,46 @@
       ],
       "folderName": "0338-counting-bits",
       "lastUpdated": 1783269148243
+    },
+    "1873-python3": {
+      "questionId": "1873",
+      "title": "Longest Nice Substring",
+      "slug": "longest-nice-substring",
+      "difficulty": "Easy",
+      "language": "python3",
+      "runtime": 112,
+      "memory": 19296000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "divide-and-conquer",
+          "name": "Divide and Conquer"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "bit-manipulation",
+          "name": "Bit Manipulation"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        }
+      ],
+      "folderName": "1873-longest-nice-substring",
+      "lastUpdated": 1783269385830
     }
   },
-  "lastUpdated": 1783269148243,
+  "lastUpdated": 1783269385830,
   "version": "1.0.0"
 }
