@@ -1111,8 +1111,26 @@
       ],
       "folderName": "0181-employees-earning-more-than-their-managers",
       "lastUpdated": 1783268242787
+    },
+    "178-mysql": {
+      "questionId": "178",
+      "title": "Rank Scores",
+      "slug": "rank-scores",
+      "difficulty": "Medium",
+      "language": "mysql",
+      "runtime": 484,
+      "memory": 0,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "database",
+          "name": "Database"
+        }
+      ],
+      "folderName": "0178-rank-scores",
+      "lastUpdated": 1783268680187
     }
   },
-  "lastUpdated": 1783268242787,
+  "lastUpdated": 1783268680187,
   "version": "1.0.0"
 }
