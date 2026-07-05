@@ -1162,8 +1162,31 @@
       ],
       "folderName": "0112-path-sum",
       "lastUpdated": 1783268937255
+    },
+    "338-python3": {
+      "questionId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "difficulty": "Easy",
+      "language": "python3",
+      "runtime": 3,
+      "memory": 20268000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "bit-manipulation",
+          "name": "Bit Manipulation"
+        }
+      ],
+      "folderName": "0338-counting-bits",
+      "lastUpdated": 1783269148243
     }
   },
-  "lastUpdated": 1783268937255,
+  "lastUpdated": 1783269148243,
   "version": "1.0.0"
 }
