@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    43
-Easy            17
+Total Solved    44
+Easy            18
 Medium          22
 Hard            4
 ```
@@ -14,9 +14,9 @@ Hard            4
 ## Languages
 
 ```
-java            ██████████████████░░ 90.7%
-mysql           █░░░░░░░░░░░░░░░░░░░ 4.7%
-python3         █░░░░░░░░░░░░░░░░░░░ 4.7%
+java            ██████████████████░░ 88.6%
+mysql           █░░░░░░░░░░░░░░░░░░░ 6.8%
+python3         █░░░░░░░░░░░░░░░░░░░ 4.5%
 ```
 
 ## Top Topics
