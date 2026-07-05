@@ -1075,8 +1075,26 @@
       ],
       "folderName": "0176-second-highest-salary",
       "lastUpdated": 1783011229296
+    },
+    "1509-mysql": {
+      "questionId": "1509",
+      "title": "Replace Employee Id With The Unique Identifier",
+      "slug": "replace-employee-id-with-the-unique-identifier",
+      "difficulty": "Easy",
+      "language": "mysql",
+      "runtime": 1147,
+      "memory": 0,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "database",
+          "name": "Database"
+        }
+      ],
+      "folderName": "1509-replace-employee-id-with-the-unique-identifier",
+      "lastUpdated": 1783245293813
     }
   },
-  "lastUpdated": 1783011229296,
+  "lastUpdated": 1783245293813,
   "version": "1.0.0"
 }
