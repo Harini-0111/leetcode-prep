@@ -1129,8 +1129,41 @@
       ],
       "folderName": "0178-rank-scores",
       "lastUpdated": 1783268680187
+    },
+    "112-java": {
+      "questionId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 44804000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "tree",
+          "name": "Tree"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "depth-first-search",
+          "name": "Depth-First Search"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "breadth-first-search",
+          "name": "Breadth-First Search"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "binary-tree",
+          "name": "Binary Tree"
+        }
+      ],
+      "folderName": "0112-path-sum",
+      "lastUpdated": 1783268937255
     }
   },
-  "lastUpdated": 1783268680187,
+  "lastUpdated": 1783268937255,
   "version": "1.0.0"
 }
