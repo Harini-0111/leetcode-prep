@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    46
-Easy            19
+Total Solved    47
+Easy            20
 Medium          23
 Hard            4
 ```
@@ -14,9 +14,9 @@ Hard            4
 ## Languages
 
 ```
-java            █████████████████░░░ 87.0%
-mysql           ██░░░░░░░░░░░░░░░░░░ 8.7%
-python3         █░░░░░░░░░░░░░░░░░░░ 4.3%
+java            █████████████████░░░ 85.1%
+mysql           ██░░░░░░░░░░░░░░░░░░ 8.5%
+python3         █░░░░░░░░░░░░░░░░░░░ 6.4%
 ```
 
 ## Top Topics
@@ -30,8 +30,8 @@ python3         █░░░░░░░░░░░░░░░░░░░ 4.3
  6. Matrix                         6
  7. Prefix Sum                     6
  8. Sorting                        5
- 9. Sliding Window                 4
-10. Binary Search                  4
+ 9. Dynamic Programming            5
+10. Sliding Window                 4
 ```
 
 ## Recent Activity
