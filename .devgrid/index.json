@@ -1093,8 +1093,26 @@
       ],
       "folderName": "1509-replace-employee-id-with-the-unique-identifier",
       "lastUpdated": 1783245293813
+    },
+    "181-mysql": {
+      "questionId": "181",
+      "title": "Employees Earning More Than Their Managers",
+      "slug": "employees-earning-more-than-their-managers",
+      "difficulty": "Easy",
+      "language": "mysql",
+      "runtime": 392,
+      "memory": 0,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "database",
+          "name": "Database"
+        }
+      ],
+      "folderName": "0181-employees-earning-more-than-their-managers",
+      "lastUpdated": 1783268242787
     }
   },
-  "lastUpdated": 1783245293813,
+  "lastUpdated": 1783268242787,
   "version": "1.0.0"
 }
