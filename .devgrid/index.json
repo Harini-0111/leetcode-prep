@@ -1223,8 +1223,36 @@
       ],
       "folderName": "1873-longest-nice-substring",
       "lastUpdated": 1783269385830
+    },
+    "303-java": {
+      "questionId": "303",
+      "title": "Range Sum Query Immutable",
+      "slug": "range-sum-query-immutable",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 55,
+      "memory": 47140000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "design",
+          "name": "Design"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        }
+      ],
+      "folderName": "0303-range-sum-query-immutable",
+      "lastUpdated": 1783525490290
     }
   },
-  "lastUpdated": 1783269385830,
+  "lastUpdated": 1783525490290,
   "version": "1.0.0"
 }
