@@ -1251,8 +1251,36 @@
       ],
       "folderName": "0303-range-sum-query-immutable",
       "lastUpdated": 1783525490290
+    },
+    "18-java": {
+      "questionId": "18",
+      "title": "4sum",
+      "slug": "4sum",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 311,
+      "memory": 47748000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "0018-4sum",
+      "lastUpdated": 1783525579217
     }
   },
-  "lastUpdated": 1783525490290,
+  "lastUpdated": 1783525579217,
   "version": "1.0.0"
 }
