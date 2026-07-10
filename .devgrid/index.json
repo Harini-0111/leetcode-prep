@@ -1279,8 +1279,26 @@
       ],
       "folderName": "0018-4sum",
       "lastUpdated": 1783525579217
+    },
+    "184-mysql": {
+      "questionId": "184",
+      "title": "Department Highest Salary",
+      "slug": "department-highest-salary",
+      "difficulty": "Medium",
+      "language": "mysql",
+      "runtime": 1006,
+      "memory": 0,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "database",
+          "name": "Database"
+        }
+      ],
+      "folderName": "0184-department-highest-salary",
+      "lastUpdated": 1783649579012
     }
   },
-  "lastUpdated": 1783525579217,
+  "lastUpdated": 1783649579012,
   "version": "1.0.0"
 }
