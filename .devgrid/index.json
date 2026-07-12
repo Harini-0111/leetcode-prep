@@ -1325,8 +1325,46 @@
       ],
       "folderName": "1256-rank-transform-of-an-array",
       "lastUpdated": 1783869219366
+    },
+    "861-java": {
+      "questionId": "861",
+      "title": "Flipping An Image",
+      "slug": "flipping-an-image",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 45976000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "bit-manipulation",
+          "name": "Bit Manipulation"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "matrix",
+          "name": "Matrix"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "0861-flipping-an-image",
+      "lastUpdated": 1783869410273
     }
   },
-  "lastUpdated": 1783869219366,
+  "lastUpdated": 1783869410273,
   "version": "1.0.0"
 }
