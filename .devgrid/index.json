@@ -1297,8 +1297,36 @@
       ],
       "folderName": "0184-department-highest-salary",
       "lastUpdated": 1783649579012
+    },
+    "1256-python3": {
+      "questionId": "1256",
+      "title": "Rank Transform Of An Array",
+      "slug": "rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "language": "python3",
+      "runtime": 67,
+      "memory": 28880000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "1256-rank-transform-of-an-array",
+      "lastUpdated": 1783869219366
     }
   },
-  "lastUpdated": 1783649579012,
+  "lastUpdated": 1783869219366,
   "version": "1.0.0"
 }
