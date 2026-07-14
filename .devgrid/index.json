@@ -1363,8 +1363,41 @@
       ],
       "folderName": "0861-flipping-an-image",
       "lastUpdated": 1783869410273
+    },
+    "1798-java": {
+      "questionId": "1798",
+      "title": "Max Number Of K Sum Pairs",
+      "slug": "max-number-of-k-sum-pairs",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 23,
+      "memory": 69092000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "1798-max-number-of-k-sum-pairs",
+      "lastUpdated": 1784042131221
     }
   },
-  "lastUpdated": 1783869410273,
+  "lastUpdated": 1784042131221,
   "version": "1.0.0"
 }
