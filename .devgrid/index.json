@@ -1439,8 +1439,36 @@
       ],
       "folderName": "2113-find-the-kth-largest-integer-in-the-array",
       "lastUpdated": 1784301486953
+    },
+    "841-java": {
+      "questionId": "841",
+      "title": "Shortest Distance To A Character",
+      "slug": "shortest-distance-to-a-character",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 1,
+      "memory": 43492000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "string",
+          "name": "String"
+        }
+      ],
+      "folderName": "0841-shortest-distance-to-a-character",
+      "lastUpdated": 1784301591286
     }
   },
-  "lastUpdated": 1784301486953,
+  "lastUpdated": 1784301591286,
   "version": "1.0.0"
 }
