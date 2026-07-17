@@ -1396,8 +1396,51 @@
       ],
       "folderName": "1798-max-number-of-k-sum-pairs",
       "lastUpdated": 1784042131221
+    },
+    "2113-python3": {
+      "questionId": "2113",
+      "title": "Find The Kth Largest Integer In The Array",
+      "slug": "find-the-kth-largest-integer-in-the-array",
+      "difficulty": "Medium",
+      "language": "python3",
+      "runtime": 14,
+      "memory": 26324000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "divide-and-conquer",
+          "name": "Divide and Conquer"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "sorting",
+          "name": "Sorting"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "heap-priority-queue",
+          "name": "Heap (Priority Queue)"
+        },
+        {
+          "tagId": "topic-5",
+          "slug": "quickselect",
+          "name": "Quickselect"
+        }
+      ],
+      "folderName": "2113-find-the-kth-largest-integer-in-the-array",
+      "lastUpdated": 1784301486953
     }
   },
-  "lastUpdated": 1784042131221,
+  "lastUpdated": 1784301486953,
   "version": "1.0.0"
 }
