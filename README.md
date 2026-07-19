@@ -5,25 +5,25 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    57
+Total Solved    58
 Easy            25
-Medium          28
+Medium          29
 Hard            4
 ```
 
 ## Languages
 
 ```
-java            ████████████████░░░░ 80.7%
-python3         ██░░░░░░░░░░░░░░░░░░ 10.5%
-mysql           ██░░░░░░░░░░░░░░░░░░ 8.8%
+java            ████████████████░░░░ 79.3%
+python3         ██░░░░░░░░░░░░░░░░░░ 12.1%
+mysql           ██░░░░░░░░░░░░░░░░░░ 8.6%
 ```
 
 ## Top Topics
 
 ```
  1. Array                          28
- 2. String                         15
+ 2. String                         16
  3. Two Pointers                   11
  4. Hash Table                     9
  5. Sorting                        8
