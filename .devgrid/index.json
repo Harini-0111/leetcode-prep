@@ -1467,8 +1467,36 @@
       ],
       "folderName": "0841-shortest-distance-to-a-character",
       "lastUpdated": 1784301591286
+    },
+    "189-java": {
+      "questionId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 0,
+      "memory": 61036000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        }
+      ],
+      "folderName": "0189-rotate-array",
+      "lastUpdated": 1784473694142
     }
   },
-  "lastUpdated": 1784301591286,
+  "lastUpdated": 1784473694142,
   "version": "1.0.0"
 }
