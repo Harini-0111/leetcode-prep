@@ -1495,8 +1495,41 @@
       ],
       "folderName": "0189-rotate-array",
       "lastUpdated": 1784473694142
+    },
+    "1159-python3": {
+      "questionId": "1159",
+      "title": "Smallest Subsequence Of Distinct Characters",
+      "slug": "smallest-subsequence-of-distinct-characters",
+      "difficulty": "Medium",
+      "language": "python3",
+      "runtime": 0,
+      "memory": 19504000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "stack",
+          "name": "Stack"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "greedy",
+          "name": "Greedy"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "monotonic-stack",
+          "name": "Monotonic Stack"
+        }
+      ],
+      "folderName": "1159-smallest-subsequence-of-distinct-characters",
+      "lastUpdated": 1784474597057
     }
   },
-  "lastUpdated": 1784473694142,
+  "lastUpdated": 1784474597057,
   "version": "1.0.0"
 }
