@@ -1528,8 +1528,56 @@
       ],
       "folderName": "1159-smallest-subsequence-of-distinct-characters",
       "lastUpdated": 1784474597057
+    },
+    "315-java": {
+      "questionId": "315",
+      "title": "Count Of Smaller Numbers After Self",
+      "slug": "count-of-smaller-numbers-after-self",
+      "difficulty": "Hard",
+      "language": "java",
+      "runtime": 1195,
+      "memory": 103408000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "binary-search",
+          "name": "Binary Search"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "divide-and-conquer",
+          "name": "Divide and Conquer"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "binary-indexed-tree",
+          "name": "Binary Indexed Tree"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "segment-tree",
+          "name": "Segment Tree"
+        },
+        {
+          "tagId": "topic-5",
+          "slug": "merge-sort",
+          "name": "Merge Sort"
+        },
+        {
+          "tagId": "topic-6",
+          "slug": "ordered-set",
+          "name": "Ordered Set"
+        }
+      ],
+      "folderName": "0315-count-of-smaller-numbers-after-self",
+      "lastUpdated": 1784474690941
     }
   },
-  "lastUpdated": 1784474597057,
+  "lastUpdated": 1784474690941,
   "version": "1.0.0"
 }
