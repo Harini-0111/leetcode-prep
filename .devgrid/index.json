@@ -1576,8 +1576,26 @@
       ],
       "folderName": "0315-count-of-smaller-numbers-after-self",
       "lastUpdated": 1784474690941
+    },
+    "183-mysql": {
+      "questionId": "183",
+      "title": "Customers Who Never Order",
+      "slug": "customers-who-never-order",
+      "difficulty": "Easy",
+      "language": "mysql",
+      "runtime": 600,
+      "memory": 0,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "database",
+          "name": "Database"
+        }
+      ],
+      "folderName": "0183-customers-who-never-order",
+      "lastUpdated": 1784563008346
     }
   },
-  "lastUpdated": 1784474690941,
+  "lastUpdated": 1784563008346,
   "version": "1.0.0"
 }
