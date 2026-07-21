@@ -1594,8 +1594,31 @@
       ],
       "folderName": "0183-customers-who-never-order",
       "lastUpdated": 1784563008346
+    },
+    "1252-java": {
+      "questionId": "1252",
+      "title": "Break A Palindrome",
+      "slug": "break-a-palindrome",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 0,
+      "memory": 42744000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "greedy",
+          "name": "Greedy"
+        }
+      ],
+      "folderName": "1252-break-a-palindrome",
+      "lastUpdated": 1784653773290
     }
   },
-  "lastUpdated": 1784563008346,
+  "lastUpdated": 1784653773290,
   "version": "1.0.0"
 }
