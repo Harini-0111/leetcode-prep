@@ -1617,8 +1617,36 @@
       ],
       "folderName": "1252-break-a-palindrome",
       "lastUpdated": 1784653773290
+    },
+    "3644-java": {
+      "questionId": "3644",
+      "title": "Minimum Positive Sum Subarray",
+      "slug": "minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 4,
+      "memory": 46104000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        }
+      ],
+      "folderName": "3644-minimum-positive-sum-subarray",
+      "lastUpdated": 1784653890741
     }
   },
-  "lastUpdated": 1784653773290,
+  "lastUpdated": 1784653890741,
   "version": "1.0.0"
 }
