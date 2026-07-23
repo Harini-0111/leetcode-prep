@@ -1645,8 +1645,36 @@
       ],
       "folderName": "3644-minimum-positive-sum-subarray",
       "lastUpdated": 1784653890741
+    },
+    "3824-java": {
+      "questionId": "3824",
+      "title": "Number Of Unique Xor Triplets I",
+      "slug": "number-of-unique-xor-triplets-i",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 1,
+      "memory": 125604000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "bit-manipulation",
+          "name": "Bit Manipulation"
+        }
+      ],
+      "folderName": "3824-number-of-unique-xor-triplets-i",
+      "lastUpdated": 1784798133227
     }
   },
-  "lastUpdated": 1784653890741,
+  "lastUpdated": 1784798133227,
   "version": "1.0.0"
 }
