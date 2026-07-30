@@ -1673,8 +1673,36 @@
       ],
       "folderName": "3824-number-of-unique-xor-triplets-i",
       "lastUpdated": 1784798133227
+    },
+    "1667-java": {
+      "questionId": "1667",
+      "title": "Find Kth Bit In Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 0,
+      "memory": 42800000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "recursion",
+          "name": "Recursion"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "1667-find-kth-bit-in-nth-binary-string",
+      "lastUpdated": 1785374363112
     }
   },
-  "lastUpdated": 1784798133227,
+  "lastUpdated": 1785374363112,
   "version": "1.0.0"
 }
