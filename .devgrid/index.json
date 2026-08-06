@@ -1701,8 +1701,31 @@
       ],
       "folderName": "1667-find-kth-bit-in-nth-binary-string",
       "lastUpdated": 1785374363112
+    },
+    "3626-python3": {
+      "questionId": "3626",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "language": "python3",
+      "runtime": 3,
+      "memory": 19344000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "enumeration",
+          "name": "Enumeration"
+        }
+      ],
+      "folderName": "3626-smallest-divisible-digit-product-i",
+      "lastUpdated": 1786027087725
     }
   },
-  "lastUpdated": 1785374363112,
+  "lastUpdated": 1786027087725,
   "version": "1.0.0"
 }
