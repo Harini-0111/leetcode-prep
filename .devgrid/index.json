@@ -1767,8 +1767,56 @@
       ],
       "folderName": "0909-stone-game",
       "lastUpdated": 1786288163126
+    },
+    "1240-java": {
+      "questionId": "1240",
+      "title": "Stone Game Ii",
+      "slug": "stone-game-ii",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 21,
+      "memory": 46828000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "minimax-algorithm",
+          "name": "Minimax"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "prefix-sum",
+          "name": "Prefix Sum"
+        },
+        {
+          "tagId": "topic-5",
+          "slug": "game-theory",
+          "name": "Game Theory"
+        },
+        {
+          "tagId": "topic-6",
+          "slug": "zero-sum-game",
+          "name": "Zero-Sum Game"
+        }
+      ],
+      "folderName": "1240-stone-game-ii",
+      "lastUpdated": 1786291088012
     }
   },
-  "lastUpdated": 1786288163126,
+  "lastUpdated": 1786291088012,
   "version": "1.0.0"
 }
