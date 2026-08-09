@@ -1724,8 +1724,51 @@
       ],
       "folderName": "3626-smallest-divisible-digit-product-i",
       "lastUpdated": 1786027087725
+    },
+    "909-java": {
+      "questionId": "909",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 69,
+      "memory": 42984000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "minimax-algorithm",
+          "name": "Minimax"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "game-theory",
+          "name": "Game Theory"
+        },
+        {
+          "tagId": "topic-5",
+          "slug": "zero-sum-game",
+          "name": "Zero-Sum Game"
+        }
+      ],
+      "folderName": "0909-stone-game",
+      "lastUpdated": 1786288163126
     }
   },
-  "lastUpdated": 1786027087725,
+  "lastUpdated": 1786288163126,
   "version": "1.0.0"
 }
