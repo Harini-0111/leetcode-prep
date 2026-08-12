@@ -1815,8 +1815,36 @@
       ],
       "folderName": "1240-stone-game-ii",
       "lastUpdated": 1786291088012
+    },
+    "3225-java": {
+      "questionId": "3225",
+      "title": "Length Of Longest Subarray With At Most K Frequency",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 65,
+      "memory": 88796000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        }
+      ],
+      "folderName": "3225-length-of-longest-subarray-with-at-most-k-frequency",
+      "lastUpdated": 1786548333104
     }
   },
-  "lastUpdated": 1786291088012,
+  "lastUpdated": 1786548333104,
   "version": "1.0.0"
 }
