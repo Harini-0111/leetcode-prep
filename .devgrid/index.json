@@ -1843,8 +1843,41 @@
       ],
       "folderName": "3225-length-of-longest-subarray-with-at-most-k-frequency",
       "lastUpdated": 1786548333104
+    },
+    "2232-java": {
+      "questionId": "2232",
+      "title": "Adding Spaces To A String",
+      "slug": "adding-spaces-to-a-string",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 24,
+      "memory": 89932000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "2232-adding-spaces-to-a-string",
+      "lastUpdated": 1786639741957
     }
   },
-  "lastUpdated": 1786548333104,
+  "lastUpdated": 1786639741957,
   "version": "1.0.0"
 }
