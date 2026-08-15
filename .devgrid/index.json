@@ -1876,8 +1876,31 @@
       ],
       "folderName": "2232-adding-spaces-to-a-string",
       "lastUpdated": 1786639741957
+    },
+    "24-java": {
+      "questionId": "24",
+      "title": "Swap Nodes In Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 0,
+      "memory": 43292000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "linked-list",
+          "name": "Linked List"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "recursion",
+          "name": "Recursion"
+        }
+      ],
+      "folderName": "0024-swap-nodes-in-pairs",
+      "lastUpdated": 1786808912347
     }
   },
-  "lastUpdated": 1786639741957,
+  "lastUpdated": 1786808912347,
   "version": "1.0.0"
 }
