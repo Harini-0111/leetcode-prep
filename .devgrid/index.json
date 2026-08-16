@@ -1899,8 +1899,26 @@
       ],
       "folderName": "0024-swap-nodes-in-pairs",
       "lastUpdated": 1786808912347
+    },
+    "476-java": {
+      "questionId": "476",
+      "title": "Number Complement",
+      "slug": "number-complement",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 42028000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "bit-manipulation",
+          "name": "Bit Manipulation"
+        }
+      ],
+      "folderName": "0476-number-complement",
+      "lastUpdated": 1786857251637
     }
   },
-  "lastUpdated": 1786808912347,
+  "lastUpdated": 1786857251637,
   "version": "1.0.0"
 }
