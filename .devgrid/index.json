@@ -1945,8 +1945,41 @@
       ],
       "folderName": "0783-search-in-a-binary-search-tree",
       "lastUpdated": 1787586688218
+    },
+    "101-java": {
+      "questionId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 43496000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "tree",
+          "name": "Tree"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "depth-first-search",
+          "name": "Depth-First Search"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "breadth-first-search",
+          "name": "Breadth-First Search"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "binary-tree",
+          "name": "Binary Tree"
+        }
+      ],
+      "folderName": "0101-symmetric-tree",
+      "lastUpdated": 1787586815778
     }
   },
-  "lastUpdated": 1787586688218,
+  "lastUpdated": 1787586815778,
   "version": "1.0.0"
 }
