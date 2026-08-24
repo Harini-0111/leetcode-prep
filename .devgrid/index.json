@@ -1917,8 +1917,36 @@
       ],
       "folderName": "0476-number-complement",
       "lastUpdated": 1786857251637
+    },
+    "783-java": {
+      "questionId": "783",
+      "title": "Search In A Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 47172000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "tree",
+          "name": "Tree"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "binary-search-tree",
+          "name": "Binary Search Tree"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "binary-tree",
+          "name": "Binary Tree"
+        }
+      ],
+      "folderName": "0783-search-in-a-binary-search-tree",
+      "lastUpdated": 1787586688218
     }
   },
-  "lastUpdated": 1786857251637,
+  "lastUpdated": 1787586688218,
   "version": "1.0.0"
 }
