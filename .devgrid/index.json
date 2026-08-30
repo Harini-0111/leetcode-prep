@@ -1978,8 +1978,31 @@
       ],
       "folderName": "0101-symmetric-tree",
       "lastUpdated": 1787586815778
+    },
+    "2212-java": {
+      "questionId": "2212",
+      "title": "Removing Minimum And Maximum From Array",
+      "slug": "removing-minimum-and-maximum-from-array",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 4,
+      "memory": 86500000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "greedy",
+          "name": "Greedy"
+        }
+      ],
+      "folderName": "2212-removing-minimum-and-maximum-from-array",
+      "lastUpdated": 1788101188893
     }
   },
-  "lastUpdated": 1787586815778,
+  "lastUpdated": 1788101188893,
   "version": "1.0.0"
 }
