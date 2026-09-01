@@ -2001,8 +2001,26 @@
       ],
       "folderName": "2212-removing-minimum-and-maximum-from-array",
       "lastUpdated": 1788101188893
+    },
+    "693-java": {
+      "questionId": "693",
+      "title": "Binary Number With Alternating Bits",
+      "slug": "binary-number-with-alternating-bits",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 0,
+      "memory": 41884000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "bit-manipulation",
+          "name": "Bit Manipulation"
+        }
+      ],
+      "folderName": "0693-binary-number-with-alternating-bits",
+      "lastUpdated": 1788270309086
     }
   },
-  "lastUpdated": 1788101188893,
+  "lastUpdated": 1788270309086,
   "version": "1.0.0"
 }
