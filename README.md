@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    74
-Easy            31
+Total Solved    75
+Easy            32
 Medium          38
 Hard            5
 ```
@@ -14,9 +14,9 @@ Hard            5
 ## Languages
 
 ```
-java            ████████████████░░░░ 81.1%
-python3         ██░░░░░░░░░░░░░░░░░░ 10.8%
-mysql           ██░░░░░░░░░░░░░░░░░░ 8.1%
+java            ████████████████░░░░ 81.3%
+python3         ██░░░░░░░░░░░░░░░░░░ 10.7%
+mysql           ██░░░░░░░░░░░░░░░░░░ 8.0%
 ```
 
 ## Top Topics
@@ -38,16 +38,16 @@ mysql           ██░░░░░░░░░░░░░░░░░░ 8.1
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
-| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-08-30 |
-| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-08-30 |
-| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-08-30 |
-| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-08-30 |
-| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-08-30 |
-| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-08-30 |
-| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-08-30 |
-| ● | [Nim Game](./0292-nim-game) | java | 2026-08-30 |
-| ● | [Next Permutation](./0031-next-permutation) | java | 2026-08-30 |
-| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-08-30 |
+| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-09-01 |
+| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-09-01 |
+| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-09-01 |
+| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-09-01 |
+| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-09-01 |
+| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-09-01 |
+| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-09-01 |
+| ● | [Nim Game](./0292-nim-game) | java | 2026-09-01 |
+| ● | [Next Permutation](./0031-next-permutation) | java | 2026-09-01 |
+| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-09-01 |
 
 ## Repository Structure
 
@@ -63,4 +63,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-08-30
+Last updated: 2026-09-01
