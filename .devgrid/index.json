@@ -2019,8 +2019,36 @@
       ],
       "folderName": "0693-binary-number-with-alternating-bits",
       "lastUpdated": 1788270309086
+    },
+    "3434-java": {
+      "questionId": "3434",
+      "title": "Find The Number Of Distinct Colors Among The Balls",
+      "slug": "find-the-number-of-distinct-colors-among-the-balls",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 39,
+      "memory": 182828000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "3434-find-the-number-of-distinct-colors-among-the-balls",
+      "lastUpdated": 1789229548600
     }
   },
-  "lastUpdated": 1788270309086,
+  "lastUpdated": 1789229548600,
   "version": "1.0.0"
 }
