@@ -2080,8 +2080,41 @@
       ],
       "folderName": "0957-minimum-add-to-make-parentheses-valid",
       "lastUpdated": 1791305545181
+    },
+    "496-java": {
+      "questionId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 4,
+      "memory": 45396000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "stack",
+          "name": "Stack"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "monotonic-stack",
+          "name": "Monotonic Stack"
+        }
+      ],
+      "folderName": "0496-next-greater-element-i",
+      "lastUpdated": 1791306083830
     }
   },
-  "lastUpdated": 1791305545182,
+  "lastUpdated": 1791306083830,
   "version": "1.0.0"
 }
