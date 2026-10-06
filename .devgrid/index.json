@@ -2047,8 +2047,41 @@
       ],
       "folderName": "3434-find-the-number-of-distinct-colors-among-the-balls",
       "lastUpdated": 1789229548600
+    },
+    "957-java": {
+      "questionId": "957",
+      "title": "Minimum Add To Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 0,
+      "memory": 42792000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "stack",
+          "name": "Stack"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "greedy",
+          "name": "Greedy"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "bracket-sequences",
+          "name": "Bracket Sequences"
+        }
+      ],
+      "folderName": "0957-minimum-add-to-make-parentheses-valid",
+      "lastUpdated": 1791305545181
     }
   },
-  "lastUpdated": 1789229548600,
+  "lastUpdated": 1791305545182,
   "version": "1.0.0"
 }
