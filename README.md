@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    77
-Easy            32
+Total Solved    78
+Easy            33
 Medium          40
 Hard            5
 ```
@@ -14,19 +14,19 @@ Hard            5
 ## Languages
 
 ```
-java            ████████████████░░░░ 81.8%
-python3         ██░░░░░░░░░░░░░░░░░░ 10.4%
-mysql           ██░░░░░░░░░░░░░░░░░░ 7.8%
+java            ████████████████░░░░ 82.1%
+python3         ██░░░░░░░░░░░░░░░░░░ 10.3%
+mysql           ██░░░░░░░░░░░░░░░░░░ 7.7%
 ```
 
 ## Top Topics
 
 ```
- 1. Array                          37
+ 1. Array                          38
  2. String                         20
- 3. Two Pointers                   12
- 4. Math                           11
- 5. Hash Table                     11
+ 3. Hash Table                     12
+ 4. Two Pointers                   12
+ 5. Math                           11
  6. Prefix Sum                     9
  7. Sorting                        8
  8. Greedy                         7
