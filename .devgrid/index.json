@@ -2113,8 +2113,31 @@
       ],
       "folderName": "0496-next-greater-element-i",
       "lastUpdated": 1791306083830
+    },
+    "2844-java": {
+      "questionId": "2844",
+      "title": "Sum Of Squares Of Special Elements",
+      "slug": "sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 1,
+      "memory": 46428000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "enumeration",
+          "name": "Enumeration"
+        }
+      ],
+      "folderName": "2844-sum-of-squares-of-special-elements",
+      "lastUpdated": 1791729668396
     }
   },
-  "lastUpdated": 1791306083830,
+  "lastUpdated": 1791729668396,
   "version": "1.0.0"
 }
