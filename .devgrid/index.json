@@ -2154,8 +2154,51 @@
       ],
       "folderName": "0175-combine-two-tables",
       "lastUpdated": 1791819780312
+    },
+    "718-java": {
+      "questionId": "718",
+      "title": "Maximum Length Of Repeated Subarray",
+      "slug": "maximum-length-of-repeated-subarray",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 1471,
+      "memory": 45152000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "binary-search",
+          "name": "Binary Search"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "rolling-hash",
+          "name": "Rolling Hash"
+        },
+        {
+          "tagId": "topic-5",
+          "slug": "hash-function",
+          "name": "Hash Function"
+        }
+      ],
+      "folderName": "0718-maximum-length-of-repeated-subarray",
+      "lastUpdated": 1791907089322
     }
   },
-  "lastUpdated": 1791819780312,
+  "lastUpdated": 1791907089322,
   "version": "1.0.0"
 }
