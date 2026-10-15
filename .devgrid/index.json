@@ -2197,8 +2197,41 @@
       ],
       "folderName": "0718-maximum-length-of-repeated-subarray",
       "lastUpdated": 1791907089322
+    },
+    "3163-java": {
+      "questionId": "3163",
+      "title": "Subarrays Distinct Element Sum Of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 10,
+      "memory": 46604000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "binary-indexed-tree",
+          "name": "Binary Indexed Tree"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "segment-tree",
+          "name": "Segment Tree"
+        }
+      ],
+      "folderName": "3163-subarrays-distinct-element-sum-of-squares-i",
+      "lastUpdated": 1792080122538
     }
   },
-  "lastUpdated": 1791907089322,
+  "lastUpdated": 1792080122538,
   "version": "1.0.0"
 }
