@@ -2230,8 +2230,36 @@
       ],
       "folderName": "3163-subarrays-distinct-element-sum-of-squares-i",
       "lastUpdated": 1792080122538
+    },
+    "3192-java": {
+      "questionId": "3192",
+      "title": "Maximum Xor Product",
+      "slug": "maximum-xor-product",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 2,
+      "memory": 41952000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "greedy",
+          "name": "Greedy"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "bit-manipulation",
+          "name": "Bit Manipulation"
+        }
+      ],
+      "folderName": "3192-maximum-xor-product",
+      "lastUpdated": 1792141534373
     }
   },
-  "lastUpdated": 1792080122538,
+  "lastUpdated": 1792141534373,
   "version": "1.0.0"
 }
