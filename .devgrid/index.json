@@ -2258,8 +2258,36 @@
       ],
       "folderName": "3192-maximum-xor-product",
       "lastUpdated": 1792141534373
+    },
+    "3847-python3": {
+      "questionId": "3847",
+      "title": "Minimum Swaps To Sort By Digit Sum",
+      "slug": "minimum-swaps-to-sort-by-digit-sum",
+      "difficulty": "Medium",
+      "language": "python3",
+      "runtime": 965,
+      "memory": 40764000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "3847-minimum-swaps-to-sort-by-digit-sum",
+      "lastUpdated": 1792256976993
     }
   },
-  "lastUpdated": 1792141534373,
+  "lastUpdated": 1792256976993,
   "version": "1.0.0"
 }
