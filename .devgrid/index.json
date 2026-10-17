@@ -2286,8 +2286,26 @@
       ],
       "folderName": "3847-minimum-swaps-to-sort-by-digit-sum",
       "lastUpdated": 1792256976993
+    },
+    "1462-mysql": {
+      "questionId": "1462",
+      "title": "List The Products Ordered In A Period",
+      "slug": "list-the-products-ordered-in-a-period",
+      "difficulty": "Easy",
+      "language": "mysql",
+      "runtime": 879,
+      "memory": 0,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "database",
+          "name": "Database"
+        }
+      ],
+      "folderName": "1462-list-the-products-ordered-in-a-period",
+      "lastUpdated": 1792257352298
     }
   },
-  "lastUpdated": 1792256976993,
+  "lastUpdated": 1792257352298,
   "version": "1.0.0"
 }
