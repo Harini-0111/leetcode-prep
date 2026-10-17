@@ -5,32 +5,32 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    83
+Total Solved    84
 Easy            36
-Medium          42
+Medium          43
 Hard            5
 ```
 
 ## Languages
 
 ```
-java            ████████████████░░░░ 81.9%
-python3         ██░░░░░░░░░░░░░░░░░░ 9.6%
-mysql           ██░░░░░░░░░░░░░░░░░░ 8.4%
+java            ████████████████░░░░ 81.0%
+python3         ██░░░░░░░░░░░░░░░░░░ 10.7%
+mysql           ██░░░░░░░░░░░░░░░░░░ 8.3%
 ```
 
 ## Top Topics
 
 ```
- 1. Array                          41
+ 1. Array                          42
  2. String                         20
- 3. Hash Table                     13
+ 3. Hash Table                     14
  4. Math                           12
  5. Two Pointers                   12
  6. Prefix Sum                     9
- 7. Greedy                         8
- 8. Dynamic Programming            8
- 9. Sorting                        8
+ 7. Sorting                        9
+ 8. Greedy                         8
+ 9. Dynamic Programming            8
 10. Sliding Window                 8
 ```
 
@@ -38,16 +38,16 @@ mysql           ██░░░░░░░░░░░░░░░░░░ 8.4
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
-| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-10-16 |
-| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-10-16 |
-| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-10-16 |
-| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-10-16 |
-| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-10-16 |
-| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-10-16 |
-| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-10-16 |
-| ● | [Nim Game](./0292-nim-game) | java | 2026-10-16 |
-| ● | [Next Permutation](./0031-next-permutation) | java | 2026-10-16 |
-| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-10-16 |
+| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-10-17 |
+| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-10-17 |
+| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-10-17 |
+| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-10-17 |
+| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-10-17 |
+| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-10-17 |
+| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-10-17 |
+| ● | [Nim Game](./0292-nim-game) | java | 2026-10-17 |
+| ● | [Next Permutation](./0031-next-permutation) | java | 2026-10-17 |
+| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-10-17 |
 
 ## Repository Structure
 
@@ -63,4 +63,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-10-16
+Last updated: 2026-10-17
