@@ -2304,8 +2304,26 @@
       ],
       "folderName": "1462-list-the-products-ordered-in-a-period",
       "lastUpdated": 1792257352298
+    },
+    "4220-java": {
+      "questionId": "4220",
+      "title": "Minimum Operations To Sort A String",
+      "slug": "minimum-operations-to-sort-a-string",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 29,
+      "memory": 47168000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        }
+      ],
+      "folderName": "4220-minimum-operations-to-sort-a-string",
+      "lastUpdated": 1792602709665
     }
   },
-  "lastUpdated": 1792257352298,
+  "lastUpdated": 1792602709665,
   "version": "1.0.0"
 }
