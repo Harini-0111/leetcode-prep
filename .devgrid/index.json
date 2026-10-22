@@ -2322,8 +2322,31 @@
       ],
       "folderName": "4220-minimum-operations-to-sort-a-string",
       "lastUpdated": 1792602709665
+    },
+    "819-java": {
+      "questionId": "819",
+      "title": "Minimum Swaps To Make Sequences Increasing",
+      "slug": "minimum-swaps-to-make-sequences-increasing",
+      "difficulty": "Hard",
+      "language": "java",
+      "runtime": 5,
+      "memory": 93116000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        }
+      ],
+      "folderName": "0819-minimum-swaps-to-make-sequences-increasing",
+      "lastUpdated": 1792687765369
     }
   },
-  "lastUpdated": 1792602709665,
+  "lastUpdated": 1792687765369,
   "version": "1.0.0"
 }
