@@ -2345,8 +2345,36 @@
       ],
       "folderName": "0819-minimum-swaps-to-make-sequences-increasing",
       "lastUpdated": 1792687765369
+    },
+    "2210-java": {
+      "questionId": "2210",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 8,
+      "memory": 44776000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "binary-search",
+          "name": "Binary Search"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "2210-find-target-indices-after-sorting-array",
+      "lastUpdated": 1792932249486
     }
   },
-  "lastUpdated": 1792687765369,
+  "lastUpdated": 1792932249486,
   "version": "1.0.0"
 }
