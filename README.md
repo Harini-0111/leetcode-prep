@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    88
-Easy            38
+Total Solved    89
+Easy            39
 Medium          44
 Hard            6
 ```
@@ -14,9 +14,9 @@ Hard            6
 ## Languages
 
 ```
-java            ████████████████░░░░ 80.7%
-python3         ██░░░░░░░░░░░░░░░░░░ 10.2%
-mysql           ██░░░░░░░░░░░░░░░░░░ 9.1%
+java            ████████████████░░░░ 79.8%
+python3         ██░░░░░░░░░░░░░░░░░░ 11.2%
+mysql           ██░░░░░░░░░░░░░░░░░░ 9.0%
 ```
 
 ## Top Topics
@@ -38,16 +38,16 @@ mysql           ██░░░░░░░░░░░░░░░░░░ 9.1
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
-| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-10-25 |
-| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-10-25 |
-| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-10-25 |
-| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-10-25 |
-| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-10-25 |
-| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-10-25 |
-| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-10-25 |
-| ● | [Nim Game](./0292-nim-game) | java | 2026-10-25 |
-| ● | [Next Permutation](./0031-next-permutation) | java | 2026-10-25 |
-| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-10-25 |
+| ● | [K Diff Pairs In An Array](./0532-k-diff-pairs-in-an-array) | java | 2026-10-27 |
+| ● | [Minimum Ascii Delete Sum For Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings) | java | 2026-10-27 |
+| ● | [Find Pivot Index](./0724-find-pivot-index) | java | 2026-10-27 |
+| ● | [Self Dividing Numbers](./0728-self-dividing-numbers) | java | 2026-10-27 |
+| ● | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | java | 2026-10-27 |
+| ● | [Sort Colors](./0075-sort-colors) | java | 2026-10-27 |
+| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-10-27 |
+| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-10-27 |
+| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-10-27 |
+| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-10-27 |
 
 ## Repository Structure
 
@@ -63,4 +63,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-10-25
+Last updated: 2026-10-27
