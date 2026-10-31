@@ -5,8 +5,8 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    89
-Easy            39
+Total Solved    90
+Easy            40
 Medium          44
 Hard            6
 ```
@@ -14,20 +14,20 @@ Hard            6
 ## Languages
 
 ```
-java            ████████████████░░░░ 79.8%
-python3         ██░░░░░░░░░░░░░░░░░░ 11.2%
-mysql           ██░░░░░░░░░░░░░░░░░░ 9.0%
+java            ████████████████░░░░ 80.0%
+python3         ██░░░░░░░░░░░░░░░░░░ 11.1%
+mysql           ██░░░░░░░░░░░░░░░░░░ 8.9%
 ```
 
 ## Top Topics
 
 ```
- 1. Array                          44
+ 1. Array                          45
  2. String                         21
  3. Hash Table                     14
  4. Math                           12
  5. Two Pointers                   12
- 6. Sorting                        10
+ 6. Sorting                        11
  7. Dynamic Programming            9
  8. Prefix Sum                     9
  9. Greedy                         8
@@ -38,16 +38,16 @@ mysql           ██░░░░░░░░░░░░░░░░░░ 9.0
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
-| ● | [K Diff Pairs In An Array](./0532-k-diff-pairs-in-an-array) | java | 2026-10-27 |
-| ● | [Minimum Ascii Delete Sum For Two Strings](./0712-minimum-ascii-delete-sum-for-two-strings) | java | 2026-10-27 |
-| ● | [Find Pivot Index](./0724-find-pivot-index) | java | 2026-10-27 |
-| ● | [Self Dividing Numbers](./0728-self-dividing-numbers) | java | 2026-10-27 |
-| ● | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | java | 2026-10-27 |
-| ● | [Sort Colors](./0075-sort-colors) | java | 2026-10-27 |
-| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-10-27 |
-| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-10-27 |
-| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-10-27 |
-| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-10-27 |
+| ● | [Count Negative Numbers In A Sorted Matrix](./1476-count-negative-numbers-in-a-sorted-matrix) | java | 2026-10-31 |
+| ● | [Special Positions In A Binary Matrix](./1704-special-positions-in-a-binary-matrix) | java | 2026-10-31 |
+| ● | [Richest Customer Wealth](./1791-richest-customer-wealth) | java | 2026-10-31 |
+| ● | [Minimum Distance To The Target Element](./1975-minimum-distance-to-the-target-element) | java | 2026-10-31 |
+| ● | [Valid Parentheses](./0020-valid-parentheses) | java | 2026-10-31 |
+| ● | [Minimum Cost Of Buying Candies With Discount](./2248-minimum-cost-of-buying-candies-with-discount) | java | 2026-10-31 |
+| ● | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | java | 2026-10-31 |
+| ● | [Nim Game](./0292-nim-game) | java | 2026-10-31 |
+| ● | [Next Permutation](./0031-next-permutation) | java | 2026-10-31 |
+| ● | [Palindrome Pairs](./0336-palindrome-pairs) | java | 2026-10-31 |
 
 ## Repository Structure
 
@@ -63,4 +63,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-10-27
+Last updated: 2026-10-31
