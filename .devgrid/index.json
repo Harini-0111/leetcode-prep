@@ -2413,8 +2413,31 @@
       ],
       "folderName": "1574-maximum-product-of-two-elements-in-an-array",
       "lastUpdated": 1793460150630
+    },
+    "453-java": {
+      "questionId": "453",
+      "title": "Minimum Moves To Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 6,
+      "memory": 47636000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "math",
+          "name": "Math"
+        }
+      ],
+      "folderName": "0453-minimum-moves-to-equal-array-elements",
+      "lastUpdated": 1793549401905
     }
   },
-  "lastUpdated": 1793460150630,
+  "lastUpdated": 1793549401905,
   "version": "1.0.0"
 }
