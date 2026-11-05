@@ -2436,8 +2436,41 @@
       ],
       "folderName": "0453-minimum-moves-to-equal-array-elements",
       "lastUpdated": 1793549401905
+    },
+    "1486-java": {
+      "questionId": "1486",
+      "title": "Find The Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 11,
+      "memory": 46032000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "binary-search",
+          "name": "Binary Search"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "1486-find-the-distance-value-between-two-arrays",
+      "lastUpdated": 1793858456628
     }
   },
-  "lastUpdated": 1793549401905,
+  "lastUpdated": 1793858456628,
   "version": "1.0.0"
 }
