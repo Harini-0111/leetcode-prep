@@ -2469,8 +2469,31 @@
       ],
       "folderName": "1486-find-the-distance-value-between-two-arrays",
       "lastUpdated": 1793858456628
+    },
+    "2361-java": {
+      "questionId": "2361",
+      "title": "Calculate Digit Sum Of A String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 5,
+      "memory": 42620000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "2361-calculate-digit-sum-of-a-string",
+      "lastUpdated": 1794847589813
     }
   },
-  "lastUpdated": 1793858456628,
+  "lastUpdated": 1794847589813,
   "version": "1.0.0"
 }
