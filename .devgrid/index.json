@@ -2492,8 +2492,46 @@
       ],
       "folderName": "2361-calculate-digit-sum-of-a-string",
       "lastUpdated": 1794847589813
+    },
+    "257-java": {
+      "questionId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 5,
+      "memory": 49272000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "backtracking",
+          "name": "Backtracking"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "tree",
+          "name": "Tree"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "depth-first-search",
+          "name": "Depth-First Search"
+        },
+        {
+          "tagId": "topic-4",
+          "slug": "binary-tree",
+          "name": "Binary Tree"
+        }
+      ],
+      "folderName": "0257-binary-tree-paths",
+      "lastUpdated": 1795193971134
     }
   },
-  "lastUpdated": 1794847589813,
+  "lastUpdated": 1795193971134,
   "version": "1.0.0"
 }
